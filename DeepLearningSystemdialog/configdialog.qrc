@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/video.png</file>
+        <file>images/car.png</file>
+        <file>images/air.jpg</file>
+        <file>images/software.jpg</file>
+        <file>program/arguments</file>
+        <file>txt/GroundDetection1/KCF_GroundDetection.txt</file>
+        <file>txt/BriefIntroduction.txt</file>
+        <file>txt/GroundDetection2/MultipleTarget_GroundDetection.txt</file>
+        <file>txt/GroundDetection3/TargetConsistency_GroundDetection.txt</file>
+        <file>txt/GroundDetection4/NCC_GroundDetection.txt</file>
+        <file>txt/GroundDetection5/NCCConsistency_GroundDetection.txt</file>
+        <file>txt/SkyDetection1/KCF_SkyDetection.txt</file>
+        <file>txt/SkyDetection2/NCC_SkyDetection.txt</file>
+    </qresource>
+</RCC>
